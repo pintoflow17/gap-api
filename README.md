@@ -1,4 +1,4 @@
-# Gap.com API Documentation
+# Gap.com Unofficial API Documentation
 
 This API provides access to Gap's product catalog, search functionality, reviews, and category information. The API is available on RapidAPI and includes caching for improved performance.
 
